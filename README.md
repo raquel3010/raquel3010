@@ -1,1 +1,1 @@
-lampara
+Techo.
